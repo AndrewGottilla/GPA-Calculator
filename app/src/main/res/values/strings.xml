@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">GPA-Calculator</string>
+    <string name="app_name">GPA_gottaj_Calculator</string>
+    <string name="tv_gpa">Calculated GPA:</string>
+    <string name="calculated_gpa">Calculated GPA:</string>
+    <string name="enter_grade_5">Enter Grade 5</string>
+    <string name="enter_grade_4">Enter Grade 4</string>
+    <string name="enter_grade_3">Enter Grade 3</string>
+    <string name="enter_grade_2">Enter Grade 2</string>
+    <string name="enter_grade_1">Enter Grade 1</string>
+    <string name="tv_default">--</string>
+    <string name="btn_state1">Compute GPA</string>
+    <string name="btn_state2">Clear Text</string>
+    <string name="err_blank">Blank Field</string>
 </resources>
